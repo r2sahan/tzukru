@@ -63,7 +63,7 @@ public class TwitterApp {
 
 		configureToken();
 	}
-	
+
 	public void setListener(TwDialogListener listener) {
 		mListener = listener;
 	}
