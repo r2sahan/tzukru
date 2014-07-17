@@ -4,27 +4,39 @@
       android:versionCode="1"
       android:versionName="1.0">
 
+    <uses-sdk
+            android:minSdkVersion="14"
+            android:targetSdkVersion="19" />
 
-    <application android:icon="@drawable/icon"
-                 android:label="@string/app_name">
-        <activity android:name=".TestConnect"
-                  android:label="@string/app_name"
-                  android:theme="@android:style/Theme.NoTitleBar">
+    <application
+            android:allowBackup="true"
+            android:icon="@drawable/ic_launcher2"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+
+        <activity
+                android:name=".TwitterConnect"
+                android:label="@string/app_name"
+                android:theme="@android:style/Theme.NoTitleBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
 
-		<activity android:name=".TestPost"
-                  android:label="@string/app_name"
-                  android:theme="@android:style/Theme.NoTitleBar">
+        <activity android:name=".MainActivity"
+                  android:label="@string/app_name">
             <intent-filter>
-                <action android:name="android.intent.action.VIEW"/>        
-			</intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
         </activity>
         
     </application>
     
     <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+
 </manifest>

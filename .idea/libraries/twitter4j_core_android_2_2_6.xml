@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="twitter4j-core-android-2.2.6">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/twitter4j-core-android-2.2.6.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

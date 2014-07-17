@@ -29,7 +29,7 @@
                 android:id="@+id/twitterCheck"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="@dimen/padding_large"
+                android:layout_marginTop="16dp"
                 android:clickable="true"
                 android:focusable="true"
                 android:text=" Login"
