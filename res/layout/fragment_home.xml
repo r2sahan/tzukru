@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.tzukru.dev.model.TextProgressBar
+            android:id="@+id/progress_xp"
+            android:layout_width="match_parent"
+            android:layout_height="9dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="5dp"
+            android:indeterminate="false"
+            style="@style/XPProgressBar"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            android:orientation="vertical"
+        <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight=".25"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:orientation="vertical">
+
+            <ImageView
+                    android:id="@+id/profile_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_people"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginBottom="0dp"/>
+
+            <TextView
+                    android:id="@+id/profile_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="16dp"
+                    android:text="Username"/>
+
+            <TextView
+                    android:id="@+id/screen_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="13dp"
+                    android:text="\@screenname"
+                    android:textColor="#CCCCCC"/>
+
+            <TextView
+                    android:id="@+id/user_level"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="13dp"
+                    android:text="Level 1"
+                    android:textColor="#999999"/>
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14dp"
+                    android:text="Skills"
+                    android:textColor="@color/actionbar_backgound"
+                    android:layout_marginTop="10dp"/>
+
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/rocket"
+                    android:layout_marginTop="10dp"/>
+
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/camera"
+                    android:layout_marginTop="10dp"/>
+
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_whats_hot"
+                    android:layout_marginTop="10dp"/>
+
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/plus"
+                    android:layout_marginTop="10dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight=".75"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical">
+
+            <TextView
+                    android:id="@+id/txt_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12dp"
+                    android:textColor="#969696"
+                    android:text="Home View"/>
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:orientation="horizontal" >
+
+                <TextView
+                        android:layout_width="0dp"
+                        android:layout_weight=".25"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/wifi_title"
+                        android:textSize="9sp"
+                        android:textColor="@color/actionbar_backgound"/>
+
+                <com.tzukru.dev.model.TextProgressBar
+                        android:id="@+id/wifi_bar"
+                        android:layout_width="0dp"
+                        android:layout_weight=".75"
+                        android:layout_height="wrap_content"
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:maxHeight="11dip"
+                        android:minHeight="11dip" />
+
+            </LinearLayout>
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:orientation="horizontal" >
+
+                <TextView
+                        android:layout_width="0dp"
+                        android:layout_weight=".25"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/channel_title"
+                        android:textSize="9sp"
+                        android:textColor="@color/actionbar_backgound"/>
+
+                <com.tzukru.dev.model.TextProgressBar
+                        android:id="@+id/channel_bar"
+                        android:layout_width="0dp"
+                        android:layout_weight=".75"
+                        android:layout_height="wrap_content"
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:maxHeight="11dip"
+                        android:minHeight="11dip" />
+
+            </LinearLayout>
+
+            <ListView
+                    android:id="@+id/device_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="17dp" >
+            </ListView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageView
+            android:id="@+id/image_viewer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:background="#96FFFFFF"/>
+
+</RelativeLayout>

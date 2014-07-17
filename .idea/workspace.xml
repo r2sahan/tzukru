@@ -11,8 +11,111 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd0755a1-3a72-4cd2-ba80-ff0df091b0e9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="fd0755a1-3a72-4cd2-ba80-ff0df091b0e9" name="Default" comment="bf&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/android-support-v4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/def_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_communities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_communities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_communities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_communities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_drawer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_drawer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_drawer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_pages.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_pages.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_pages.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_pages.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_people.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_people.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_people.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_people.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_photos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_photos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_photos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_photos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_whats_hot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_whats_hot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_whats_hot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_whats_hot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/menu_alt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/twitter4j-async-4.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/twitter4j-media-support-4.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/twitter4j-stream-4.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/model/ChannelListItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/util/ChannelManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/CommunityFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/util/FileCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/FindPeopleFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/HomeFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/util/ImageLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/util/MemoryCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/model/NavDrawerItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/adapter/NavDrawerListAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/PagesFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/PhotosFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/model/TextProgressBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/util/TwitterApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/TwitterConnect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/util/TwitterConstants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/util/TwitterDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/adapter/TwitterListAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/model/TwitterListItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/util/TwitterParcelable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/util/TwitterSession.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/util/Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tzukru/dev/WhatsHotFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/blueprogress.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/channel_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/color.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/counter_bg.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-sw600dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-sw720dp-land/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/drawer_list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_community.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_find_people.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_home.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_pages.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_photos.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_whats_hot.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/goldprogress.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/greenprogress.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/list_item_bg_normal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/list_item_bg_pressed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/list_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/menu/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/spec_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-v11/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-v14/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/twitter4j_async_4_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/twitter4j_media_support_4_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/twitter4j_stream_4_0_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tzukru.iws" />
@@ -623,17 +726,21 @@
       <workItem from="1404294144867" duration="70449000" />
       <workItem from="1404897498266" duration="31166000" />
       <workItem from="1405210864641" duration="27976000" />
-      <workItem from="1405406436483" duration="32669000" />
+      <workItem from="1405406436483" duration="33051000" />
     </task>
     <task id="LOCAL-00001" summary="bf">
       <created>1405582944628</created>
       <updated>1405582944628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bf&#10;">
+      <created>1405583071152</created>
+      <updated>1405583071152</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198752000" />
+    <option name="totallyTimeSpent" value="199134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="975" extended-state="6" />
@@ -641,7 +748,7 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -716,7 +823,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="bf" />
-    <option name="LAST_COMMIT_MESSAGE" value="bf" />
+    <MESSAGE value="bf&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="bf&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

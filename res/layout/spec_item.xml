@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="horizontal" >
+
+    <TextView
+            android:layout_width="0dp"
+            android:layout_weight=".25"
+            android:layout_height="wrap_content"
+            android:id="@+id/spec_title"
+            android:textSize="9sp"
+            android:textColor="@color/actionbar_backgound"/>
+
+    <com.tzukru.dev.model.TextProgressBar
+            android:id="@+id/spec_bar"
+            android:layout_width="0dp"
+            android:layout_weight=".75"
+            android:layout_height="wrap_content"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:maxHeight="11dip"
+            android:minHeight="11dip" />
+
+</LinearLayout>

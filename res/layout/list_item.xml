@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical" >
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal"
+                  android:paddingTop="5pt"
+                  android:paddingLeft="5pt"
+                  android:paddingRight="5pt">
+
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/user_image"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/twit_image"
+                android:paddingTop="17pt"
+                android:textSize="12sp"
+                android:textColor="#ff58f643"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/twit_username"
+                android:paddingLeft="17pt"
+                android:textSize="12sp"
+                android:textColor="#333333"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/twit_text"
+                android:textSize="10sp"
+                android:paddingLeft="17pt"
+                android:paddingTop="7pt"
+                android:textColor="#666666"
+                android:layout_marginBottom="5dp"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/twit_datetime"
+                android:layout_alignParentRight="true"
+                android:textColor="#CCCCCC"
+                android:textSize="9sp"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>
